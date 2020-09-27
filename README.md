@@ -1,3 +1,30 @@
+# [Primeros Pasos en React]()
+
+## Deploy 🔻
+
+[CounterApp]()
+
+## ⭐ Acerca del Proyecto
+
+Proyecto de aprendizaje realizado en el curso **React de Cero a Experto**, gracias a la iniciativa de capacitación en tecnologías digitales por el Cluster Tecnológico de Catamarca (CTC).
+
+## 🔍 Objetivos
+
+Que se aprendió con el proyecto?
+
+## ✅ Tecnologías
+
+- Javascript
+- React
+  - Componentes
+  - Props
+  - PropTypes
+  - DefaultProps
+  - Events
+  - Hooks
+
+# Instrucciones
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
