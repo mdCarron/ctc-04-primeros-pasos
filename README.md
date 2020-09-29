@@ -10,18 +10,17 @@ Proyecto de aprendizaje realizado en el curso **React de Cero a Experto**, graci
 
 ## 🔍 Objetivos
 
-Que se aprendió con el proyecto?
+- Componentes
+- Props
+- PropTypes
+- DefaultProps
+- Events
+- Hooks
 
 ## ✅ Tecnologías
 
 - Javascript
 - React
-  - Componentes
-  - Props
-  - PropTypes
-  - DefaultProps
-  - Events
-  - Hooks
 
 # Instrucciones
 
