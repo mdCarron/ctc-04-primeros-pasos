@@ -1,8 +1,8 @@
-# [Titulo del proyecto + link al deply](https://mdcarron-ctc-04-counterapp.netlify.app/)
+# [Primeros Pasos en React](https://mdcarron-ctc-04-counterapp.netlify.app/)
 
 ## 🔻 Deploy
 
-[Titulo del proyecto + link al deploy](https://mdcarron-ctc-04-counterapp.netlify.app/)
+[Primeros Pasos en React](https://mdcarron-ctc-04-counterapp.netlify.app/)
 
 ## ⭐ Acerca del Proyecto
 
